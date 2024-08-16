@@ -14,12 +14,12 @@ Loading Spinner: A spinner component is used to indicate loading states, ensurin
 News Details: Each news article includes a title, description, source, publication date, author, and a link to read more.
 Technical Aspects
 ### 1. Component-Based Architecture
-The application is organized into distinct, reusable components, making the structure modular and easy to maintain:
+The application is organized into distinct, reusable class based components, making the structure modular and easy to maintain:
 
-NavBar: Manages the navigation bar and links to different categories.
-News: Fetches and displays news articles for the selected category, handling pagination and infinite scrolling.
-NewsItem: Displays individual news articles with details such as title, description, image, and publication date.
-Spinner: A loading spinner that appears during content loading phases.
+**NavBar**: Manages the navigation bar and links to different categories.
+**News**: Fetches and displays news articles for the selected category, handling pagination and infinite scrolling.
+**NewsItem**: Displays individual news articles with details such as title, description, image, and publication date.
+**Spinner**: A loading spinner that appears during content loading phases.
 ### 2. State Management
 **State Management**:
 The application manages different states, including:
