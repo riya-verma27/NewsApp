@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Daniel Lewis",
+            "title": "Local sniper who spotted Trump shooter 1.5 hours before failed assassination attempt speaks out | CNN Politics",
+            "description": "Members of a local SWAT team assisting in security for Donald Trump’s July 13 rally in Butler, Pennsylvania, spoke to ABC News about what led to the failed assassination attempt.",
+            "url": "https://www.cnn.com/2024/07/29/politics/video/trump-shooting-rally-local-swat-team-interview-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/abc-clean0.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-29T14:46:08.368Z",
+            "content": "Members of a local SWAT team assisting in security for Donald Trumps July 13 rally in Butler, Pennsylvania, spoke to ABC News about what led to the failed assassination attempt."
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Anthony Macdonald",
+            "title": "Jabiluka mining ban: When politics and miners mix, investors get hurt",
+            "description": "The last thing investors need in Australian mining is more shocks like the ban on uranium mining at Jabiluka. The industry is doing it hard enough.",
+            "url": "http://www.afr.com/chanticleer/when-politics-and-miners-mix-investors-get-hurt-20240729-p5jxbx",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.8011%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_25/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/1cf3230f81f8974a7c3575371a4102168489b3c9",
+            "publishedAt": "2024-07-29T08:31:40Z",
+            "content": "When youre a busted company and the prime minister starts sniffing around your regulatory filings, you should be worried.\r\nIf youre also a miner with long-time traditional owner issues and a politica… [+50 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
